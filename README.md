@@ -6,8 +6,6 @@
 - 💞️ I’m looking to collaborate on new projects that are related to the web and stuff! 
 - 📫 You can reach me on this mail : aline.hy@outlook.com or on my instagram @aline_hy :) 
 - ⚡ Fun fact **When I was around 3 years old and that I had my first day at kindergarden, I didn't cry. But the second day, when my mom left, I cried for nearly 1 hour reaching my hands toward the window because I thought my mom abandoned me. And the other days went normal haha, I don't know what went into my head this day !**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
