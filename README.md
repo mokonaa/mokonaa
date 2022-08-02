@@ -1,11 +1,15 @@
 <h1 align="center">Hello there 👋, I'm Aline, nice to meet you !</h1>
 <h3 align="center">A passionate student frontend developer in apprenticeship / sandwich-course from France !</h3>
 
-<p style="line-height: 1rem;">
+<p style="line-height: 1.2rem;">
 - 👀 I’m a sandwich course student learning web development since 2018! (technically 2012)
+<br>
 - 🌱 I’m currently learning how to develop websites, I am learning how to use React and other Frameworks.
+<br>
 - 💞️ I’m looking to collaborate on new projects that are related to the web and stuff!
+<br>
 - 📫 You can reach me on this mail : aline.hy@outlook.com or on my instagram @aline_hy :)
+<br>
 - ⚡ Fun fact : When I was around 3 years old and that I had my first day at kindergarden, I didn't cry. But the second
 day, when my mom left, I cried for nearly 1 hour reaching my hands toward the window because I thought my mom abandoned
 me. And the other days went normal haha, I don't know what went into my head this day !
