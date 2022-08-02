@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Aline, nice to meet you !</h1>
-<h3 align="center" style="margin-bottom: 18px;">A passionate student frontend developer in apprenticeship / sandwich-course from France !</h3>
+<h3 align="center" style="margin-bottom: 25px;">A passionate student frontend developer in apprenticeship / sandwich-course from France !</h3>
 
 <p style="line-height: 30px;">
     - 👀 I’m a sandwich course student learning web development since 2018! (technically 2012)
@@ -17,6 +17,7 @@
 <h3 align="center">
     If you want to know more about me, you can go to <a href="alinehy.com">aline.com</a>, <br>
     it's my portfolio ! Or contact me on hy.aline@outlook.com
+    <br>
+    <br>
+    Thanks for reading and have a nice day!
 </h3>
-
-Thanks for reading and have a nice day!
