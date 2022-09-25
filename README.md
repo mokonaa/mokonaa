@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋 I'm Aline, nice to meet you !</h1>
-<h3 align="center" style="margin-bottom: 35px;">A passionate student frontend developer in apprenticeship / sandwich-course from France !</h3>
+<h3 align="center" style="margin-bottom: 35px;">A passionate student frontend <br>developer in apprenticeship / sandwich-course from France !</h3>
 
 <p style="line-height: 30px;">
     - 👀 I’m a sandwich course student learning web development since 2018! (technically 2012)
