@@ -15,8 +15,7 @@
     me. And the other days went normal haha, I don't know what went into my head this day !
 </p>
 <h3 align="center">
-    If you want to know more about me, you can go to <a href="http://alinehy.com/">alinehy.com</a>, <br>
-    it's my portfolio ! Or contact me on hy.aline@outlook.com
+    If you want to know more about me, you can contact me on hy.aline@outlook.com
     <br>
     <br>
     Thanks for reading and have a nice day!
