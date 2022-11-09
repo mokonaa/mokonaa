@@ -10,9 +10,6 @@
     <br>
     - 📫 You can reach me on this mail : aline.hy@outlook.com or on my LinkedIn : Aline Hy :)
     <br>
-    - ⚡ Fun fact : When I was around 3 years old and that I had my first day at kindergarden, I didn't cry. But the second
-    day, when my mom left, I cried for nearly 1 hour reaching my hands toward the window because I thought my mom abandoned
-    me. And the other days went normal haha, I don't know what went into my head this day !
 </p>
 <h3 align="center">
     If you want to know more about me, you can contact me on hy.aline@outlook.com
