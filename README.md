@@ -1,4 +1,4 @@
-# Salut ! 👋 Je suis Aline Hy
+# Salut ! 👋 Je m'appelle Aline
 
 ## 🍵 À propos de moi
 
