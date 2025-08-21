@@ -3,7 +3,6 @@
 ## 🍵 À propos de moi
 
 **Développeuse Web Front-end** chez [SURF](https://agencesurf.com/) basée à Paris, France 🇫🇷  
-*Hello ! Un matcha vous tente ?* ☕
 
 Passionnée par le développement web et la création d'interfaces utilisateur, je transforme des idées en expériences digitales engageantes.
 
