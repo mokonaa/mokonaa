@@ -6,11 +6,8 @@
 
 Passionnée par le développement web et la création d'interfaces utilisateur, je transforme des idées en expériences digitales engageantes.
 
-- 🔭 Je travaille actuellement sur des **projets front-end innovants**
-- 🌱 J'approfondis mes connaissances en **React** et **animations web**
+- 🔭 Je travaille actuellement sur des **projets front-end**
 - 👯 Je cherche à collaborer sur des **projets créatifs et impactants**
-- 🎨 J'adore allier **développement** et **design** pour créer des expériences uniques
-- 💬 Parlons de **JavaScript, SCSS, UX/UI** et bien sûr... de **matcha** ! 🍃
 - 📫 Comment me joindre : **hy.aline@outlook.com**
 
 ## 🛠️ Ma Stack Technique
