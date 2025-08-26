@@ -30,7 +30,7 @@ Passionnée par le développement web et la création d'interfaces utilisateur, 
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 
-## 🌟 Portfolio Personnel
+## 🌟 Portfolio
 Mon site web personnel où vous pouvez découvrir tous mes travaux
 - **Lien :** [alinehy.com](https://alinehy.com/)
 
