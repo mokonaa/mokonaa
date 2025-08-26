@@ -10,7 +10,7 @@ Passionnée par le développement web et la création d'interfaces utilisateur, 
 - 👯 Je cherche à collaborer sur des **projets créatifs et impactants**
 - 📫 Comment me joindre : **hy.aline@outlook.com**
 
-## 🛠️ Ma Stack Technique
+## 🛠️ Ma stack technique
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
